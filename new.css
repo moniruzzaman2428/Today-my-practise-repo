@@ -3,6 +3,7 @@ h1{
     padding: 50px;
     color: chocolate;
     text-align: center;
+    font-size: 52px;
 }
 h3{
     background-color: rgb(27, 23, 23);
@@ -16,4 +17,15 @@ img{
   margin-right: auto;
   width: 50%;
 
+}
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.et{
+    background-image: url(image/ddd.PNG);
+    display: block;
+    padding: 400px;
+    background-repeat: no-repeat;
 }
