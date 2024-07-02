@@ -9,3 +9,11 @@ h3{
     color: aliceblue;
     border:solid rebeccapurple;
 }
+img{
+    border: solid darkred;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
