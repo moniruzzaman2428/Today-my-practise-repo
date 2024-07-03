@@ -9,6 +9,7 @@ h3{
     background-color: rgb(27, 23, 23);
     color: aliceblue;
     border:solid rebeccapurple;
+    text-align: center;
 }
 img{
     border: solid darkred;
